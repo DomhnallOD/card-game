@@ -16,6 +16,6 @@ public class CardList {
 		//Test CardListGenerator
 		CardListGenerator clg =  new CardListGenerator();
 		clg.generateCardList();
-		System.out.println("OK");
+		System.out.println("OK, this is my third commit.");
 	}
 }
